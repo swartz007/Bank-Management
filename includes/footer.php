@@ -16,7 +16,7 @@ include 'includes/common.php';
 </head>
 <body>
 <footer class="text-center" style="background-color: #2C3E50  ; color: white;">
-<p>Shreyas Babshet<br> shreyasbabshet89@gmail.com </p>
+<p>Swaraj Patil<br> patilswaraj977@gmail.com </p>
 </footer>
 </body>
 </html>
